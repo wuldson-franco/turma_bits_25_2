@@ -1,0 +1,18 @@
+
+=== RESULTADO DO QUIZ ===
+
+Aluno: weslly dos santos melo
+Matrícula: 2025211510367
+
+Acertos: 1 de 4 questões
+
+DETALHAMENTO:
+Questão 1: ❌ Errada (correta: B)
+Questão 2: ❌ Errada (correta: C)
+Questão 3: ✔️ Correta
+Questão 4: ❌ Errada (correta: B)
+
+
+IMPORTANTE:
+- Este resultado NÃO serve como nota oficial do curso.
+- Faça o commit e push deste arquivo para o seu repositório no GitHub.
