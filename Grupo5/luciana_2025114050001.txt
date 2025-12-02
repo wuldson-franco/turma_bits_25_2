@@ -1,0 +1,18 @@
+
+=== RESULTADO DO QUIZ ===
+
+Aluno: Luciana Neves de Brito
+Matrícula: 2025114050001
+
+Acertos: 4 de 4 questões
+
+DETALHAMENTO:
+Questão 1: ✔️ Correta
+Questão 2: ✔️ Correta
+Questão 3: ✔️ Correta
+Questão 4: ✔️ Correta
+
+
+IMPORTANTE:
+- Este resultado NÃO serve como nota oficial do curso.
+- Faça o commit e push deste arquivo para o seu repositório no GitHub.
